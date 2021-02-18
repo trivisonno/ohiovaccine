@@ -3,7 +3,7 @@
 <!-- INFO -->
 ## Info
 
-###[https://trivisonno.github.io/ohiovaccine/](https://trivisonno.github.io/ohiovaccine/)
+### [https://trivisonno.github.io/ohiovaccine/](https://trivisonno.github.io/ohiovaccine/)
 
 This website is a table of Ohio's COVID-19 vaccine providers. Volunteers keep appointment availability up-to-date for the larger retail pharmacies, like Giant Eagle and Rite-Aid. You can sort by county using the dropdown menu at the top of the County column, or search by general text using the search box at the top of the table.
 
