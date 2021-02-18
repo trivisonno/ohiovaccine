@@ -10,6 +10,8 @@ This website is a table of Ohio's COVID-19 vaccine providers. Volunteers keep ap
 
 Transit information is also provided for those pharmacies located near a bus or rail station.
 
+Appointments are getting booked rapidly, and availability info can be out of date within minutes. Refresh this page often for the most up-to-date availability.
+
 
 <!-- CONTACT -->
 ## Contact
